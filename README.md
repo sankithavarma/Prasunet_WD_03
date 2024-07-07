@@ -6,17 +6,14 @@ The application allows users to play the classic game of tic-tac-toe either agai
 The interactive interface and smooth game mechanics ensure a fun and competitive experience.
 
 Features
+
 Two-Player Mode: Play against another human player.
-
 Game State Tracking: Keep track of the current game state, including player turns and board status.
-
 Winning Conditions: Automatically check for and declare a winner when three markers are aligned in a row, column, or diagonal.
-
 Reset Functionality: Reset the game to play again without refreshing the page.
 
 Technologies Used
-HTML: For structuring the elements of the application.
 
-CSS: For styling the game and ensuring a visually appealing design.
-
+HTML: For structuring the elements of the application.</br>
+CSS: For styling the game and ensuring a visually appealing design.</br>
 JavaScript: For implementing the core functionality, including handling user clicks, tracking game state, and checking for winning conditions.
